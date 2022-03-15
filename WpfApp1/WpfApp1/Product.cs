@@ -11,6 +11,7 @@ namespace WpfApp1
 {
     using System;
     using System.Collections.Generic;
+    using System.IO;
     
     public partial class Product
     {
@@ -18,6 +19,15 @@ namespace WpfApp1
         public Product()
         {
             this.ProductOrder = new HashSet<ProductOrder>();
+        }
+        public string GetPhoto
+        {
+            get
+            {
+                if (Photo is null)
+                    return null;
+                return Directory.GetCurrentDirectory() + @"\Images\" + Photo.Trim();
+            }
         }
     
         public int ProductID { get; set; }

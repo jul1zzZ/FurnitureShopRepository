@@ -6,7 +6,6 @@ C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\bin\Debug\Entit
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
-C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\App.g.cs
@@ -22,3 +21,10 @@ C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfAp
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\CatalogFurniturePage.g.cs
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\CatalogFurniturePage.baml
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\TableFurniture.g.cs
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\TableFurniture.baml
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\GoodAddPage.g.cs
+C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\obj\Debug\GoodAddPage.baml

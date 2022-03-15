@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\witless\Desktop\FurnitureShopRepository\WpfApp1\WpfApp1\App.xaml
-22037783069
+51947733806
 21750853300
-18-891082035
+221016676040
 181318446653
-LoginWindow.xaml;MainWindow.xaml;
+CatalogFurniturePage.xaml;GoodAddPage.xaml;LoginWindow.xaml;MainWindow.xaml;TableFurniture.xaml;
 
-False
+True
 
