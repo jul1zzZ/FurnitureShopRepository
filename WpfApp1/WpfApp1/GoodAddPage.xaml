@@ -25,8 +25,9 @@
         <TextBlock Text="Изображение" Height="40" FontSize="20" Margin="5" Grid.Row="3"></TextBlock>
         <TextBox x:Name="TxtName" Width="350" Height="40" Margin="5" Grid.Column="1" Text="{Binding ProductName}"></TextBox>
         <TextBox x:Name="TxtPrice" Width="350" Height="40" Margin="5" Grid.Row="1" Grid.Column="1" Text="{Binding SellPrice}"></TextBox>
-        <TextBox x:Name="TxtAmount" Width="350" Height="40" Margin="5" Grid.Row="2" Grid.Column="1" Text="{Binding Amount}"></TextBox>
+        <TextBox x:Name="TxtAmount" Width="350" Height="40" Margin="5" Grid.Row="2" Grid.Column="1" Text="{Binding SellAmount}"></TextBox>
         <Image x:Name="ImagePhoto" Source="{Binding Path=GetPhoto}"></Image>
-        <Button x:Name="BtnSave" Grid.Row="6" Width="200" Height="40" Content="Save" Background="CornflowerBlue" Click="BtnSave_Click"></Button>
+        <Button x:Name="BtnSave" Grid.Row="4" Width="200" Height="40" Content="Save" Background="CornflowerBlue" Foreground="White" Click="BtnSave_Click"></Button>
+        <Button x:Name="LoadImage" Grid.Row="3" Grid.Column="1" Width="200" Height="40" Content="Load" Background="CornflowerBlue" Foreground="White" Click="LoadImage_Click"></Button>
     </Grid>
 </Page>
